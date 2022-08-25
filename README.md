@@ -12,4 +12,4 @@ The results given by the models are similar to these :
 ![alt text](https://github.com/Mehieddine44/Surveying-segmentation-models-on-traffic-landmark-detection/blob/main/ex2.png)
 ![alt text](https://github.com/Mehieddine44/Surveying-segmentation-models-on-traffic-landmark-detection/blob/main/ex3.png)
 ![alt text](https://github.com/Mehieddine44/Surveying-segmentation-models-on-traffic-landmark-detection/blob/main/ex4.png)
-![alt text](https://github.com/Mehieddine44/Surveying-segmentation-models-on-traffic-landmark-detection/blob/main/ex1.png)
+
